@@ -1,0 +1,7 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VSCoarseVolumeOp(),6,0,2,------,------
+allocateArray(),91,22,2,45.500,11.000
+execute(),291,71,21,13.857,3.381
+printHelp(),16,1,2,------,------
+selectColumnsOnly(),28,6,2,14.000,3.000
+~VSCoarseVolumeOp(),16,4,2,------,------

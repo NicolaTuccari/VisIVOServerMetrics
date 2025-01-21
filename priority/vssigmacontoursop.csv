@@ -1,0 +1,8 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+GetNumberOfSigma(),0,0,0,------,------
+SetNumberOfSigma(float),0,0,0,------,------
+VSSigmaContoursOp(),11,0,1,------,------
+allocateArray(),46,13,7,6.571,1.857
+execute(),275,93,42,6.548,2.214
+printHelp(),17,1,2,------,------
+~VSSigmaContoursOp(),10,4,1,------,------

@@ -1,0 +1,6 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VSExtractSubVolumeOp(),6,0,2,------,------
+allocateArray(),91,22,2,45.500,11.000
+execute(),216,61,14,15.429,4.357
+printHelp(),17,1,2,------,------
+~VSExtractSubVolumeOp(),16,4,2,------,------

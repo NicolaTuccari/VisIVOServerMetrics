@@ -1,0 +1,3 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+readData(),277,75,25,11.080,3.000
+readHeader(),105,20,39,2.692,0.513

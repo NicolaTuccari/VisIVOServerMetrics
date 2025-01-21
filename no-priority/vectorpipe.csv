@@ -1,0 +1,6 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VectorPipe(VisIVOServerOptions),9,0,20,------,------
+createPipe(),240,46,56,4.286,0.821
+destroyAll(),10,3,2,------,------
+setLookupTable(),23,6,2,11.500,3.000
+~VectorPipe(),11,3,2,------,------

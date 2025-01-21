@@ -1,0 +1,6 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VSMRCamPos(),8,0,2,------,------
+allocatefArray(),101,20,2,50.500,10.000
+execute(),313,59,38,8.237,1.553
+printHelp(),26,1,2,13.000,------
+~VSMRCamPos(),12,6,2,------,3.000

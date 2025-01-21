@@ -1,0 +1,8 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+"checkMultipleFiles(int,string)",14,4,0,------,------
+readData(),361,78,71,5.085,1.099
+readHeader(),83,23,8,10.375,2.875
+"readMultipleHeaders(int,string,bool)",16,3,1,------,------
+swapHeaderType1(),29,4,3,9.667,------
+swapHeaderType2(),37,4,4,9.250,------
+updateNpart2(int),1,0,0,------,------

@@ -1,0 +1,5 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VSCreatePathUT(),29,0,2,14.500,------
+execute(),459,110,8,57.375,13.750
+printHelp(),24,1,2,12.000,------
+~VSCreatePathUT(),0,0,0,------,------

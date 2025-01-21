@@ -1,0 +1,6 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+checkhyperslab(),155,44,27,5.741,1.630
+readData(),10,4,18,------,------
+readHeader(),50,15,9,5.556,1.667
+readTable(),101,29,41,2.463,0.707
+readVolume(),67,12,10,6.700,1.200

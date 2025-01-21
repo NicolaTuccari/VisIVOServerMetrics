@@ -1,0 +1,11 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+PointsPipe(VisIVOServerOptions),11,0,20,------,------
+"SetXYZ(vtkFloatArray *,vtkFloatArray *,vtkFloatArray *)",53,15,4,13.250,3.750
+createPipe(),277,88,95,2.916,0.926
+destroyAll(),14,5,2,------,2.500
+setGlyphs(),46,7,28,1.643,0.250
+setLookupTable(),24,5,2,12.000,2.500
+setRadius(),22,4,2,11.000,------
+setResolution(),13,3,2,------,------
+setScaling(),15,8,2,------,4.000
+~PointsPipe(),15,5,2,------,2.500

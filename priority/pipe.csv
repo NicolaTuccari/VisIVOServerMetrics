@@ -1,0 +1,14 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+colorBar(),45,3,6,7.500,------
+constructVTK(),21,0,51,0.412,------
+createPipe(),15,3,6,------,------
+destroyAll(),0,0,0,------,------
+destroyVTK(),30,9,6,5.000,1.500
+getCamera(SplotchCamera *),14,3,6,------,------
+readData(),14,3,6,------,------
+saveImageAsPng(int),181,46,26,6.962,1.769
+"setAxes(vtkDataSet *,double *)",74,3,11,6.727,------
+setBoundingBox(vtkDataObject *),96,15,19,5.053,0.789
+setCamera(),1,0,0,------,------
+setCamera(...),2,0,0,------,------
+setCamera(SplotchCamera *),287,92,119,2.412,0.773

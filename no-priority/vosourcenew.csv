@@ -1,0 +1,8 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VOSourcenew(),10,0,2,------,------
+allocateArray(),46,11,2,23.000,5.500
+is_number(const string &),7,4,0,------,------
+readData(),171,51,11,15.545,4.636
+readHeader(),148,41,5,29.600,8.200
+writeData(),30,6,5,6.000,1.200
+~VOSourcenew(),12,3,2,------,------

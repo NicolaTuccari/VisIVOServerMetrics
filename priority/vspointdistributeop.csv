@@ -1,0 +1,14 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VSPointDistributeOp(),54,0,4,13.500,------
+allocateArray(int),192,50,6,32.000,8.333
+"allocateArray(int,bool)",2,0,0,------,------
+computeModelBounds(),94,30,20,4.700,1.500
+execute(),1152,386,160,7.200,2.412
+executeArray(),1,0,0,------,------
+getOrigin(float *),20,6,4,5.000,1.500
+getSpacing(float *),20,6,4,5.000,1.500
+printHelp(),52,2,4,13.000,------
+setArray(),1,0,0,------,------
+setOrigin(),40,14,2,20.000,7.000
+setSpacing(),94,34,2,47.000,17.000
+~VSPointDistributeOp(),24,6,4,6.000,1.500

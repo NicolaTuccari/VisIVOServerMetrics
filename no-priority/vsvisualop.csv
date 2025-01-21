@@ -1,0 +1,6 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+VSVisualOp(),9,0,2,------,------
+allocatefArray(),66,13,2,33.000,6.500
+execute(),260,67,21,12.381,3.190
+printHelp(),15,1,2,------,------
+~VSVisualOp(),15,5,2,------,2.500

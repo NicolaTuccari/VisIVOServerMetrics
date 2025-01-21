@@ -1,0 +1,8 @@
+name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+allocateArray(),42,9,2,21.000,4.500
+downloadFiles(),54,12,58,0.931,0.207
+readData(),328,77,17,19.294,4.529
+readHeader(),126,30,7,18.000,4.286
+readSpecifiedFormat(),48,28,11,4.364,2.545
+writeListFiles(),12,2,2,------,------
+~XmlSource(),7,2,2,------,------
