@@ -1,8 +1,24 @@
 name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
+"allocateBuffers(int,long,vector)",6,1,0,------,------
 "checkMultipleFiles(int,string)",14,4,0,------,------
-readData(),361,78,71,5.085,1.099
-readHeader(),83,23,8,10.375,2.875
-"readMultipleHeaders(int,string,bool)",16,3,1,------,------
-swapHeaderType1(),29,4,3,9.667,------
-swapHeaderType2(),37,4,4,9.250,------
-updateNpart2(int),1,0,0,------,------
+computeChunkSize(...),16,3,1,------,------
+computeFileStartPositions(...),11,2,0,------,------
+computeTypePositions(...),23,7,0,23.000,7.000
+determineEndianism(),7,6,0,------,------
+"extractBlockList(const string,bool)",30,8,0,30.000,8.000
+"findBlockOffset(int,const string,bool)",17,5,0,------,------
+"generateMap(unordered_map,const vector,const vector)",7,1,0,------,------
+initializeParticleCounts(...),6,1,0,------,2.667
+"isValidParticleType(int,int,int,const vector,const unordered_map)",9,8,0,------,6.000
+openInputFiles(...),15,6,0,------,------
+openOutputFiles(...),17,3,0,------,------
+processBlocksParallel(...),26,3,0,------,------
+"processChunk(int,float*,vector,int,long,int,bool)",12,3,0,------,------
+processFileName(),11,6,0,------,6.000
+processParticle(...),31,5,0,10.333,1.667
+readData(),31,5,3,6.444,------
+readHeader(),82,23,8,10.250,2.875
+"readMultipleHeaders(int,string,bool)",17,3,1,------,------
+swapHeaderType1(),28,4,3,9.333,------
+swapHeaderType2(),36,4,4,9.000,------
+"writeChunkData(int,const vector,long,long,long,const long*,int,int)",11,1,0,------,------
