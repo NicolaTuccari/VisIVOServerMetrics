@@ -1,11 +1,28 @@
 name,lines_of_code,McCabes_cyclomatic_complexity,lines_of_comment,lines_of_code_per_line_of_comment,McCabes_cyclomatic_complexity_per_line_of_comment
 PointsPipe(VisIVOServerOptions),11,0,20,------,------
 "SetXYZ(vtkFloatArray *,vtkFloatArray *,vtkFloatArray *)",53,15,4,13.250,3.750
-createPipe(),277,88,95,2.916,0.926
+"applySingleColor(vtkActor *,string)",14,7,1,------,7.000
+"assignColumnToArray(vtkFloatArray *,const string, ifstream *, int)",35,15,0,------,------
+configureActor(),11,1,0,------,------
+configureGlyphs(),11,7,0,------,------
+configureStereoRender(),26,3,0,------,------
+"createAxisArray(const string, int)",7,1,0,------,------
+createPipe(),52,23,9,5.778,2.556
 destroyAll(),14,5,2,------,2.500
+finalizeRender(vtkSmartPointer),15,1,0,------,------
+getColorTableIndex(string),10,2,0,------,------
+getColumnIndex(map,string),8,2,0,------,------
+loadColorScalars(ifstream),13,4,0,------,------
+loadHeightScalars(ifstream),9,3,0,------,------
+loadRadiusScalars(ifstream, vtkFloatArray),11,2,0,------,------
+setBackgroundColor(string),46,7,0,------,------
 setGlyphs(),46,7,28,1.643,0.250
 setLookupTable(),24,5,2,12.000,2.500
 setRadius(),22,4,2,11.000,------
+setRenderWindow(const string),8,2,0,------,------
 setResolution(),13,3,2,------,------
 setScaling(),15,8,2,------,4.000
+setupVertexCells(),11,1,0,------,------
+shouldLoadHeightScalars(),7,4,0,------,------
+shouldLoadRadiusScalars(),6,3,0,------,------
 ~PointsPipe(),15,5,2,------,2.500
