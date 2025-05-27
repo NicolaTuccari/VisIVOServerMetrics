@@ -11,10 +11,10 @@ createPipe(),52,23,9,5.778,2.556
 destroyAll(),14,5,2,------,2.500
 finalizeRender(vtkSmartPointer),15,1,0,------,------
 getColorTableIndex(string),10,2,0,------,------
-getColumnIndex(map,string),8,2,0,------,------
+"getColumnIndex(map,string)",8,2,0,------,------
 loadColorScalars(ifstream),13,4,0,------,------
 loadHeightScalars(ifstream),9,3,0,------,------
-loadRadiusScalars(ifstream, vtkFloatArray),11,2,0,------,------
+"loadRadiusScalars(ifstream, vtkFloatArray)",11,2,0,------,------
 setBackgroundColor(string),46,7,0,------,------
 setGlyphs(),46,7,28,1.643,0.250
 setLookupTable(),24,5,2,12.000,2.500
